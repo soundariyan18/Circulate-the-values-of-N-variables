@@ -13,8 +13,7 @@ Anaconda - Python 3.7
 Using the slicing concept rotate the list
 ### Step 4:
 End the program
-### Step 5: 
-### Step 6: 
+
 ## Program:
 ```
 Circulate the values of n variables
